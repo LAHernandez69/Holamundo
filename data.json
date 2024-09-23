@@ -1,0 +1,12 @@
+[
+    {
+        "id": 1,
+        "nombre": "Hola Mundo",
+        "descripcion": "Bienvenido a mi página web creada en GitHub Pages"
+    },
+    {
+        "id": 2,
+        "nombre": "Otro Mensaje",
+        "descripcion": "Este es otro mensaje que puedes mostrar."
+    }
+]
