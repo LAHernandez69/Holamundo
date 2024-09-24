@@ -6,7 +6,7 @@
     },
     {
         "id": 2,
-        "nombre": "Otro Mensaje",
-        "descripcion": "Este es otro mensaje que puedes mostrar."
+        "nombre": "Mensaje Secundario",
+        "descripcion": "Este es otro mensaje cargado desde el archivo JSON."
     }
 ]
